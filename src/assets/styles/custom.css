@@ -1,0 +1,11 @@
+/* custom.css */
+.icon-stroke-fill {
+    fill: white;
+    stroke: black;
+    stroke-width: 1;
+  }
+  
+  .custom-hr {
+    border-top-width: 1px;
+  }
+  
